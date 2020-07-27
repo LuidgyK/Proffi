@@ -12,6 +12,7 @@ header{
     margin-left: auto;
     margin-right: 26px;
   }
+
 }
 
 .logo {
@@ -24,6 +25,11 @@ header{
   background-repeat: no-repeat;
   padding-left:72px;
 
+   &:hover{
+      text-decoration: none;
+     color: black;
+  }
+
 }
 
 .logo span{
@@ -31,8 +37,6 @@ header{
   font-weight: 700;
 
 }
-
-
 
 
 
@@ -44,6 +48,7 @@ header{
   border: 1px solid #e6e6e6;
   overflow: hidden;
   font-size: 14px;
+
 
   &__browse{
     padding: 14px;
