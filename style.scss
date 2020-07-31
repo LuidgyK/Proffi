@@ -19,44 +19,7 @@ body{
   margin:0 auto;
 }
 
-.logo {
-  width: 165px;
-  line-height: 51px;
-  text-transform: uppercase;
-  font-size: 27px;
-  background-image: url("img/logo.png");
-  background-blend-mode: overlay;
-  background-repeat: no-repeat;
-  padding-left:72px;
-  color: #222222;
-  text-decoration: none;
-  margin-left: -20px;
 
-  span{
-    color:#bc9499;
-    font-weight: 700;
-
-  }
-
-
-}
-
-
-.header__cart{
-  margin-left:auto;
-  margin-right:26px;
-}
-
-.header__account-bar{
-  width: 138px;
-  line-height: 38px;
-  background-color: #f16d7f;
-  color: #ffffff;
-  font-size: 15px;
-  font-weight: 400;
-  border: none;
-
-}
 
 .headerLine{
   border-bottom: 1px solid #ececec;
